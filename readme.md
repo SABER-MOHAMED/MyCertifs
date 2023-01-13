@@ -6,16 +6,16 @@
 
 - ## Programming foundations path
 
-  - [x] ` Completed` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](LinkedIn Learning/)
-  - [x] ` Completed` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](LinkedIn Learning/)
-  - [x] ` Completed` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](LinkedIn Learning/)
-  - [x] ` Completed` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](LinkedIn Learning/)
-  - [x] ` Completed` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](LinkedIn Learning/)
-  - [x] ` Completed` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](LinkedIn Learning/)
-  - [x] ` Completed` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](LinkedIn Learning/)
-  - [x] ` Completed` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](LinkedIn Learning/)
-  - [x] ` Completed` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](LinkedIn Learning/)
-  - [x] ` Completed` `2h 11m` - 10 - [Learning Git](LinkedIn Learning/)
+  - [x] ` Completed` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals]
+  - [x] ` Completed` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals]
+  - [x] ` Completed` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design]
+  - [x] ` Completed` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures]
+  - [x] ` Completed` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms]
+  - [x] ` Completed` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns]
+  - [x] ` Completed` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases]
+  - [x] ` Completed` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services]
+  - [x] ` Completed` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA]
+  - [x] ` Completed` `2h 11m` - 10 - [Learning Git]
 
   <br />
 
