@@ -1,0 +1,44 @@
+
+# Learn Programing Fundamentals
+
+![100%](https://progress-bar.dev/100/?title=Done)
+<br />
+
+- ## Programming foundations path
+
+  - [x] ` Completed` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](LinkedIn Learning/)
+  - [x] ` Completed` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](LinkedIn Learning/)
+  - [x] ` Completed` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](LinkedIn Learning/)
+  - [x] ` Completed` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](LinkedIn Learning/)
+  - [x] ` Completed` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](LinkedIn Learning/)
+  - [x] ` Completed` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](LinkedIn Learning/)
+  - [x] ` Completed` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](LinkedIn Learning/)
+  - [x] ` Completed` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](LinkedIn Learning/)
+  - [x] ` Completed` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](LinkedIn Learning/)
+  - [x] ` Completed` `2h 11m` - 10 - [Learning Git](LinkedIn Learning/)
+
+  <br />
+
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-19h25m-blue">
+
+# Learn HTML & CSS & JavaScript
+
+![100%](https://progress-bar.dev/100/?title=Done)
+<br />
+
+ - [x] ` Completed` `37h 30m` - 11 - [Build Responsive Real-World Websites with HTML and CSS](Udemy/)
+ - [x] ` Completed` `18h 00m` - 11 - [The Complete HTML & CSS & Responsive Design](Udemy/)
+ - [x] `Completed` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](Udemy/)
+  <br />
+
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-124h30m-blue">
+
+# Learn How to Deploy web applications with Cloud Provider (AWS)
+
+![100%](https://progress-bar.dev/100/?title=Done)
+<br />
+
+ - [x] ` Completed` `16h 20m` - 11 - [AWS Certified Cloud Practitioner (CLF-C01)](aClouGuru/)
+  <br />
+
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-16h20m-blue">
