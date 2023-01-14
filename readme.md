@@ -38,7 +38,7 @@
 ![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 
- - [x] ` Completed` `16h 20m` - 11 - [AWS Certified Cloud Practitioner (CLF-C01)](aClouGuru/)
+ - [x] ` Completed` `16h 20m` - 11 - [AWS Certified Cloud Practitioner (CLF-C01)](aCloudGuru/)
   <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-16h20m-blue">
