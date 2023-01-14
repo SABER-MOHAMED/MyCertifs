@@ -1,4 +1,4 @@
-### <a href="http://w2.estl.ac.ma/genie-informatique" target="_blank">2020-2022 : enrolled in the Superior School of Technology's Computer science degree</a>
+### <a href="http://w2.estl.ac.ma/genie-informatique" target="_blank">2020-2022 : enrolled in the Superior School of Technology's Computer science degree.</a>
 
 ## ![Technical Sheet](Technical-Sheet-DUT.jpg)
 
