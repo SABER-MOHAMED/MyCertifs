@@ -3,11 +3,11 @@
 ![75%](https://progress-bar.dev/75/?title=in-progress)
 <br />
 
-### [2020-2022 : enrolled in the Superior School of Technology's Computer science degree](./Academic%20Education/)
+### [2020-2022 : Enrolled in the Superior School of Technology's Computer science degree](./Academic%20Education/)
 
 ## <img src="https://img.shields.io/badge/Total%20Number%20Of%20Years-2-blue">
 
-### [2022-2023 : Enrolled in the Ibn Zohr's bachelor degree in Computer Engineering](./Academic%20Education/)
+### [2022-2023 : Enrolled in the Ibn Zohr's bachelor degree of Computer Engineering](./Academic%20Education/)
 
 ## <img src="https://img.shields.io/badge/Total%20Number%20Of%20Years-1-blue">
 
