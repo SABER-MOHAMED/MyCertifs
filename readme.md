@@ -1,3 +1,17 @@
+# Academic Education
+
+![75%](https://progress-bar.dev/75/?title=in-progress)
+<br />
+
+### [2020-2022 : enrolled in the Superior School of Technology's Computer science degree](./Academic%20Education/)
+
+## <img src="https://img.shields.io/badge/Total%20Number%20Of%20Years-2-blue">
+
+### [2022-2023 : Enrolled in the Ibn Zohr's bachelor degree in Computer Engineering](./Academic%20Education/)
+
+## <img src="https://img.shields.io/badge/Total%20Number%20Of%20Years-1-blue">
+
+---
 
 # Learn Programing Fundamentals
 
@@ -26,10 +40,10 @@
 ![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 
- - [x] ` Completed` `37h 30m` - 11 - [Build Responsive Real-World Websites with HTML and CSS](Udemy/)
- - [x] ` Completed` `18h 00m` - 11 - [The Complete HTML & CSS & Responsive Design](Udemy/)
- - [x] `Completed` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](Udemy/)
-  <br />
+- [x] ` Completed` `37h 30m` - 11 - [Build Responsive Real-World Websites with HTML and CSS](Udemy/)
+- [x] ` Completed` `18h 00m` - 11 - [The Complete HTML & CSS & Responsive Design](Udemy/)
+- [x] `Completed` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](Udemy/)
+      <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-124h30m-blue">
 
@@ -38,7 +52,7 @@
 ![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 
- - [x] ` Completed` `16h 20m` - 11 - [AWS Certified Cloud Practitioner (CLF-C01)](aCloudGuru/)
-  <br />
+- [x] ` Completed` `16h 20m` - 11 - [AWS Certified Cloud Practitioner (CLF-C01)](aCloudGuru/)
+      <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-16h20m-blue">
